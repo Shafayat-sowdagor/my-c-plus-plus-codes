@@ -46,7 +46,7 @@ public:
 int main() {
     Student sam, john;
 
-    sam.setName("Sam");
+    sam.setName("Samuyel");
     sam.setRollNumber(1);
     sam.setPhoneNumber("1234567890");
     sam.setAddress("123 Main St.");
