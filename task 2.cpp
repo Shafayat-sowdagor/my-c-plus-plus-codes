@@ -46,10 +46,10 @@ public:
 int main() {
     Student sam, john;
 
-    sam.setName("Samuyel");
+    sam.setName("Samuyel Johnson");
     sam.setRollNumber(1);
     sam.setPhoneNumber("1234567890");
-    sam.setAddress("123 Main St.");
+    sam.setAddress("123 Main St. Chicago");
 
     john.setName("John");
     john.setRollNumber(2);
