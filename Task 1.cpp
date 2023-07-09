@@ -4,13 +4,14 @@ using namespace std;
 
 class Student {
 public:
-    string name;
+    string name,profession;
     int id;
 };
 
 int main() {
     Student john;
     john.name = "John Cena";
+    john.profession = "WWE Wrestler";
     john.id = 2222;
 
     cout << "Student Name: " << john.name << endl;
