@@ -10,7 +10,7 @@ public:
 
 int main() {
     Student john;
-    john.name = "John";
+    john.name = "John Cena";
     john.id = 2222;
 
     cout << "Student Name: " << john.name << endl;
